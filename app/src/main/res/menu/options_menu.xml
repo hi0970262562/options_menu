@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="複製" />
+    <item android:title="貼上" />
+    <item android:title="關於" />
+    <item android:title="離開" />
+</menu>
